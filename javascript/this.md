@@ -6,8 +6,6 @@
 
 ---
 
----
-
 ```jsx
 "use strict";
 let someone = {
