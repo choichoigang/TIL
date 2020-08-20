@@ -13,22 +13,22 @@
 
 ### Javascript
 
-[bind](https://github.com/choichoigang/TIL/blob/master/javascript/bind.md)
-[bubbling && Capturing](https://github.com/choichoigang/TIL/blob/master/javascript/bubbling-capturing.md)
-[Call && Apply](https://github.com/choichoigang/TIL/blob/master/javascript/call-apply.md)
-[Event Loop](https://github.com/choichoigang/TIL/blob/master/javascript/event-loop.md)
-[Execution Context](https://github.com/choichoigang/TIL/blob/master/javascript/execution-context.md)
-[First Class Function](https://github.com/choichoigang/TIL/blob/master/javascript/first-class-function.md)
-[Primitive && Reference type](https://github.com/choichoigang/TIL/blob/master/javascript/js-type.md)
-[Lexical Scoping](https://github.com/choichoigang/TIL/blob/master/javascript/lexical-scoping.md)
-[Prototype](https://github.com/choichoigang/TIL/blob/master/javascript/prototype.md)
-[Scope && Hoisting](https://github.com/choichoigang/TIL/blob/master/javascript/scope-hoisting.md)
-[This](https://github.com/choichoigang/TIL/blob/master/javascript/this.md)
-[Typeof](https://github.com/choichoigang/TIL/blob/master/javascript/typeof.md)
+- [bind](https://github.com/choichoigang/TIL/blob/master/javascript/bind.md)
+- [bubbling && Capturing](https://github.com/choichoigang/TIL/blob/master/javascript/bubbling-capturing.md)
+- [Call && Apply](https://github.com/choichoigang/TIL/blob/master/javascript/call-apply.md)
+- [Event Loop](https://github.com/choichoigang/TIL/blob/master/javascript/event-loop.md)
+- [Execution Context](https://github.com/choichoigang/TIL/blob/master/javascript/execution-context.md)
+- [First Class Function](https://github.com/choichoigang/TIL/blob/master/javascript/first-class-function.md)
+- [Primitive && Reference type](https://github.com/choichoigang/TIL/blob/master/javascript/js-type.md)
+- [Lexical Scoping](https://github.com/choichoigang/TIL/blob/master/javascript/lexical-scoping.md)
+- [Prototype](https://github.com/choichoigang/TIL/blob/master/javascript/prototype.md)
+- [Scope && Hoisting](https://github.com/choichoigang/TIL/blob/master/javascript/scope-hoisting.md)
+- [This](https://github.com/choichoigang/TIL/blob/master/javascript/this.md)
+- [Typeof](https://github.com/choichoigang/TIL/blob/master/javascript/typeof.md)
 
 ### HTML
 
-[DocType](https://github.com/choichoigang/TIL/blob/master/html/doc-type.md)
+- [DocType](https://github.com/choichoigang/TIL/blob/master/html/doc-type.md)
 
 ### React
 
@@ -36,4 +36,4 @@
 
 ### Web
 
-[Browser Work](https://github.com/choichoigang/TIL/blob/master/web/browser-work.md)
+- [Browser Work](https://github.com/choichoigang/TIL/blob/master/web/browser-work.md)
