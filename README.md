@@ -25,6 +25,7 @@
 - [Scope && Hoisting](https://github.com/choichoigang/TIL/blob/master/javascript/scope-hoisting.md)
 - [This](https://github.com/choichoigang/TIL/blob/master/javascript/this.md)
 - [Typeof](https://github.com/choichoigang/TIL/blob/master/javascript/typeof.md)
+- [Closure](https://github.com/choichoigang/TIL/blob/master/javascript/closure.md)
 
 ### HTML
 
