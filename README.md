@@ -26,6 +26,7 @@
 - [This](https://github.com/choichoigang/TIL/blob/master/javascript/this.md)
 - [Typeof](https://github.com/choichoigang/TIL/blob/master/javascript/typeof.md)
 - [Closure](https://github.com/choichoigang/TIL/blob/master/javascript/closure.md)
+- [Promise](https://github.com/choichoigang/TIL/blob/master/javascript/promise.md)
 
 ### HTML
 
