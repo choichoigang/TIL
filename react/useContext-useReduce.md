@@ -1,7 +1,5 @@
 # useContext & useReduce
 
-# useContext & useReducer
-
 ### useContext의 특징
 
 - Props Drilling 패턴을 피할 수 있다.
