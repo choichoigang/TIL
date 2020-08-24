@@ -27,6 +27,8 @@
 - [Typeof](https://github.com/choichoigang/TIL/blob/master/javascript/typeof.md)
 - [Closure](https://github.com/choichoigang/TIL/blob/master/javascript/closure.md)
 - [Promise](https://github.com/choichoigang/TIL/blob/master/javascript/promise.md)
+- [Higher Order Function](https://github.com/choichoigang/TIL/blob/master/javascript/higher-order-function.md)
+- [Functional Programming](https://github.com/choichoigang/TIL/blob/master/javascript/functional-programming.md)
 
 ### HTML
 
