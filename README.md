@@ -52,4 +52,8 @@
 
 - [Process & Thread](https://github.com/choichoigang/TIL/blob/master/computerScience/process-thread.md)
 
+### Data Structure
+
+- [Array & Linked List](https://github.com/choichoigang/TIL/blob/master/dataStructure/array-linked-list.md)
+
 ### algorithm
