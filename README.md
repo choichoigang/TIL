@@ -39,6 +39,7 @@
 - [useContext && useReduce](https://github.com/choichoigang/TIL/blob/master/react/useContext-useReduce.md)
 - [styled-component ThemeProvider](https://github.com/choichoigang/TIL/blob/master/react/theme-provider.md)
 - [Redux](https://github.com/choichoigang/TIL/blob/master/react/redux.md)
+- [SSR & CSR](https://github.com/choichoigang/TIL/blob/master/react/ssr-csr.md)
 
 ### CSS
 
